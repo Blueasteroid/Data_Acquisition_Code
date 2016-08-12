@@ -1,2 +1,2 @@
-# Data_Acquisition_Code
+# Screen Stimulus
 JH@KrappLab 2016
